@@ -1,5 +1,6 @@
 # Техническое задание: основные метрики для email рассылок
 [Дашборд](https://datalens.yandex.cloud/akmxujbdhj5wy-mailfit)
+
 [ipynb](https://github.com/lisaryap/Assessment-Tests/blob/main/Email_metrics.ipynb)
 
 ## Описание проекта
